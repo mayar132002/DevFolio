@@ -23,7 +23,7 @@ header .navbar {
     left: 0;
     right: 0;
     background: rgba(0, 0, 0, 0.452);
-    /* padding: 12px 0; */
+    padding: 0px;
     z-index: 9999999999;
 }
 
